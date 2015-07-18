@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.EF-Mappings", "EF-Mappings\1.EF-Mappings.csproj", "{0113EA0F-EC28-4899-A7D5-8D20B18AE358}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Export-Rivers-as-JSON", "Export-Rivers-as-JSON\2.Export-Rivers-as-JSON.csproj", "{EE9F496D-4330-4BC6-BE49-620A03140B13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6BE755EB-1274-4D9B-8CCE-2C7D81EFB887}"
+	ProjectSection(SolutionItems) = preProject
+		WE-settings.xml = WE-settings.xml
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Export-Monasteries-as-XML", "Export-Monasteries-as-XML\3.Export-Monasteries-as-XML.csproj", "{305E3D28-4876-4E8B-95B5-730A70B0FE45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Import-Rivers-From-XML", "Import-Rivers-From-XML\4.Import-Rivers-From-XML.csproj", "{555BFEAC-05E2-4E1E-A854-1DB95AB4B90A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mountains-Code-First", "Mountains-Code-First\Mountains-Code-First.csproj", "{02FCA1AD-49F2-4E41-A16D-325AB210BA3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0113EA0F-EC28-4899-A7D5-8D20B18AE358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0113EA0F-EC28-4899-A7D5-8D20B18AE358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0113EA0F-EC28-4899-A7D5-8D20B18AE358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0113EA0F-EC28-4899-A7D5-8D20B18AE358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9F496D-4330-4BC6-BE49-620A03140B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9F496D-4330-4BC6-BE49-620A03140B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9F496D-4330-4BC6-BE49-620A03140B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9F496D-4330-4BC6-BE49-620A03140B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{305E3D28-4876-4E8B-95B5-730A70B0FE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305E3D28-4876-4E8B-95B5-730A70B0FE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305E3D28-4876-4E8B-95B5-730A70B0FE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305E3D28-4876-4E8B-95B5-730A70B0FE45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555BFEAC-05E2-4E1E-A854-1DB95AB4B90A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555BFEAC-05E2-4E1E-A854-1DB95AB4B90A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555BFEAC-05E2-4E1E-A854-1DB95AB4B90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555BFEAC-05E2-4E1E-A854-1DB95AB4B90A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02FCA1AD-49F2-4E41-A16D-325AB210BA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FCA1AD-49F2-4E41-A16D-325AB210BA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FCA1AD-49F2-4E41-A16D-325AB210BA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FCA1AD-49F2-4E41-A16D-325AB210BA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
